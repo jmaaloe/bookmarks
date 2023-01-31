@@ -7,3 +7,5 @@ Collection:
       - https://example.com
       - This is a text note
       - Link note: https://example.com
+Collection:
+  - Bucket:
